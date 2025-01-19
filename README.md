@@ -1,4 +1,4 @@
-# 🧬 Gene expression analysis
+# 🧬 Gene Expression Analysis
 In this bioinformatics assignment, I used Principle Component Analysis (PCA) to visualize the similarities and differences between the samples based on their gene expression profiles. It was a useful way to check if the samples clustered together based on the expected biological variables (e.g., organ type or treatment condition).
 
 Next, I compared gene expression between different conditions, such as different organs or treatment conditions. To do this, I used a statistical method called differential gene expression analysis. This method compares the expression of each gene between two or more conditions and identified genes that were expressed differently. I used DESeq2 to perform differential gene expression analysis.
